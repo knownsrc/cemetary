@@ -23,7 +23,7 @@
 > To get started with this tool, follow these steps:
 > 
 > 1. **Download:**
->    - Download will be pushed shortly.
+>    - download [here](https://github.com/knownsrc/cemetary/releases/download/release/cemetary.exe) or go to the [releases tab](https://github.com/knownsrc/cemetary/releases)
 > 
 > 2. **For Source Code:**
 >    - source code will be released at 225 stars. I know this is a lot but still.
