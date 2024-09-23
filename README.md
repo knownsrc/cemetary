@@ -1,6 +1,6 @@
 # Cemetary Nuker
 
-[!IMAGE](https://github.com/knownsrc/cemetary/blob/main/cemetary.png)
+![IMAGE](https://github.com/knownsrc/cemetary/blob/main/cemetary.png)
 
 <!--
 > [!IMPORTANT]
