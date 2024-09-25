@@ -22,10 +22,10 @@
 > 
 > To get started with this tool, follow these steps:
 > 
-> 1. **Download:**
+> 1. **download 👇**
 >    - download [here](https://github.com/knownsrc/cemetary/releases/download/release/cemetary.exe) or go to the [releases tab](https://github.com/knownsrc/cemetary/releases)
 > 
-> 2. **For Source Code:**
+> 2. **For Src:**
 >    - source code will be released at 225 stars. I know this is a lot but still.
 > 
 > 3. **For Executable (exe):**
@@ -42,6 +42,6 @@ The first release of Cemetary is here!
 > ### 🚨 Known Issues / "Bugs"
 
 * Closes when I input a token<br>
-  ⮡&nbsp;&nbsp; its because the token is invalid. input a valid token and it will work<br>
+  ⮡> its because the token is invalid. input a valid token and it will work<br>
 * Some features dont work<br>
-  ⮡ &nbsp;&nbsp;yeah, not all of the features work because of discord stupid API but they work sometimes<br>
+  ⮡> yeah, not all of the features work because of discord stupid API but they work sometimes<br>
