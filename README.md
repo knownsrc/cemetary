@@ -36,6 +36,7 @@
 > ### 🛠️ Updates
 
 The first release of Cemetary is here!
+-- probably not even gonna be updating this as there is no features that i can think of
 
 
 #
