@@ -17,7 +17,12 @@
 > 
 > This project is not intended for production use, and its code may not adhere to best practices or security standards. It is solely meant for educational purposes, providing examples, and encouraging experimentation.<br>
 >
-> I am not responsible for any misuse or damage caused using this tool. 
+> I am not responsible for any misuse or damage caused using this tool.
+
+<!--
+fix this lil thing i noticed
+-->
+
 > [!TIP]
 > 
 > To get started with this tool, follow these steps:
